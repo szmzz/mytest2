@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-common/pinyougou-common.iml" filepath="$PROJECT_DIR$/pinyougou-common/pinyougou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-interface/pinyougou-interface.iml" filepath="$PROJECT_DIR$/pinyougou-interface/pinyougou-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-mapper/pinyougou-mapper.iml" filepath="$PROJECT_DIR$/pinyougou-mapper/pinyougou-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-parent.iml" filepath="$PROJECT_DIR$/pinyougou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-pojo/pinyougou-pojo.iml" filepath="$PROJECT_DIR$/pinyougou-pojo/pinyougou-pojo.iml" />
+    </modules>
+  </component>
+</project>

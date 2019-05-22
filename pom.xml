@@ -12,6 +12,8 @@
     <modules>
         <module>pinyougou-common</module>
         <module>pinyougou-interface</module>
+        <module>pinyougou-mapper</module>
+        <module>pinyougou-pojo</module>
     </modules>
 
     <dependencyManagement>
